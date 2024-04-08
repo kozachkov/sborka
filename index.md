@@ -6,6 +6,8 @@ lang-ref: index
 
 # Сборка
 
+- [Ящик (docker)]({{ site.baseurl }}/docker/index)
+
 ## make
 
 Содержимое Makefile:
